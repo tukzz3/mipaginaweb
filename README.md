@@ -1,2 +1,40 @@
-# mipaginaweb
-pagina web kimberly romero naranjo
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Página Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      padding: 0;
+    }
+    
+    h1 {
+      font-size: 28px;
+      color: #333;
+    }
+    
+    h2 {
+      font-size: 22px;
+      color: #666;
+    }
+    
+    p {
+      font-size: 16px;
+      color: #999;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kimberly Romero Naranjo</h1>
+  
+  <p>Bienvenido/a a mi página web. Aquí encontrarás información sobre mí y mi carrera como maestra de primaria.</p>
+  
+  <h2>Descripción del sitio web</h2>
+  <p>Este sitio web fue creado como parte de una tarea para mi curso de maestro de primaria. Aquí comparto mi pasión por la enseñanza y mi deseo de marcar una diferencia en la vida de los niños.</p>
+  
+  <h2>Por qué quiero ser docente de primaria</h2>
+  <p>Ser docente de primaria es una vocación que he descubierto a lo largo de mi vida. Me apasiona trabajar con los niños y ayudarles en su desarrollo académico y personal. Creo que cada niño tiene un potencial único y quiero ser parte de su proceso de aprendizaje para guiarlos y apoyarlos en su crecimiento.</p>
+</body>
+</html>
